@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-image: url("images/map.gif");
+	
+  opacity: 1.2;
+ 
+  height: 100%; 
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ 
+div.lasv {
+	position: absolute;
+	top: 525px;
+	left:280px;
+}
+.lasv {
+  width: relative;
+  height: relative;
+  background: url("https://img.icons8.com/material-rounded/41/FFFFFF/closed-eye.png") no-repeat;
+  display: inline-block;
+}
+.lasv:hover {
+  background: url("https://img.icons8.com/ios-glyphs/39/FFFFFF/visible--v1.png") no-repeat;
+}
+
+div.nyc {
+	position: absolute;
+	top: 310px;
+	left:1620px;
+}
+.nyc {
+  width: relative;
+  height: relative;
+  background: url("https://img.icons8.com/material-rounded/41/FFFFFF/closed-eye.png") no-repeat;
+  display: inline-block;
+}
+.nyc:hover {
+  background: url("https://img.icons8.com/ios-glyphs/39/FFFFFF/visible--v1.png") no-repeat;
+}
+div.miami {
+	position: absolute;
+	top: 970px;
+	left:1510px;
+}
+.miami {
+  width: relative;
+  height: relative;
+  background: url("https://img.icons8.com/material-rounded/41/FFFFFF/closed-eye.png") no-repeat;
+  display: inline-block;
+}
+.miami:hover {
+  background: url("https://img.icons8.com/ios-glyphs/39/FFFFFF/visible--v1.png") no-repeat;
+}
+div.arch {
+	position: absolute;
+	top: 480px;
+	left:1100px;
+}
+.arch {
+  width: relative;
+  height: relative;
+  background: url("https://img.icons8.com/material-rounded/41/FFFFFF/closed-eye.png") no-repeat;
+  display: inline-block;
+}
+.arch:hover {
+  background: url("https://img.icons8.com/ios-glyphs/39/FFFFFF/visible--v1.png") no-repeat;
+}
